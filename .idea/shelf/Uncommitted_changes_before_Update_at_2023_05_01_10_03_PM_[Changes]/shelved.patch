@@ -1,0 +1,191 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"a4cc07c1-582b-4bef-8df3-9c6a1c1847cd\" name=\"Changes\" comment=\"feat: Add BufferedReader example\">\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/com/example/javaproject2/codeup/Codeup1001.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/com/example/javaproject2/codeup/Codeup1002.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/com/example/javaproject2/codeup/Codeup1003.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/com/example/javaproject2/codeup/Codeup1004.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/com/example/javaproject2/codeup/Codeup1005.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/com/example/javaproject2/codeup/Codeup1103.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/com/example/javaproject2/codeup/Codeup1106.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/com/example/javaproject2/week1/day3/BufferedReaderEx.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/com/example/javaproject2/week1/day3/BufferedReaderExTest.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/com/example/javaproject2/week1/day3/NumberConverter.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/com/example/javaproject2/week1/day3/NumberConverterTest.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/com/example/javaproject2/week1/day3/ScannerEx.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/com/example/javaproject2/week1/day3/ScannerExTest.java\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"ExternalProjectsData\">\n    <projectState path=\"$PROJECT_DIR$\">\n      <ProjectState />\n    </projectState>\n  </component>\n  <component name=\"FileTemplateManagerImpl\">\n    <option name=\"RECENT_TEMPLATES\">\n      <list>\n        <option value=\"FxmlFile\" />\n        <option value=\"Class\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"Git.Settings\">\n    <excluded-from-favorite>\n      <branch-storage>\n        <map>\n          <entry type=\"LOCAL\">\n            <value>\n              <list>\n                <branch-info repo=\"$PROJECT_DIR$\" source=\"main\" />\n              </list>\n            </value>\n          </entry>\n        </map>\n      </branch-storage>\n    </excluded-from-favorite>\n    <option name=\"PUSH_AUTO_UPDATE\" value=\"true\" />\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\n      <map>\n        <entry key=\"$PROJECT_DIR$\" value=\"1week-five\" />\n      </map>\n    </option>\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"ProjectId\" id=\"2Od69kMkIYuiUH5RrKkIb7WW6mL\" />\n  <component name=\"ProjectLevelVcsManager\">\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\n  </component>\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\">{\n  &quot;keyToString&quot;: {\n    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\n    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.gradle&quot;\n  }\n}</component>\n  <component name=\"RunManager\" selected=\"Application.Codeup1004\">\n    <configuration name=\"Codeup1001\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\n      <option name=\"MAIN_CLASS_NAME\" value=\"com.example.javaproject2.codeup.Codeup1001\" />\n      <module name=\"java-project2.main\" />\n      <extension name=\"coverage\">\n        <pattern>\n          <option name=\"PATTERN\" value=\"com.example.javaproject2.codeup.*\" />\n          <option name=\"ENABLED\" value=\"true\" />\n        </pattern>\n      </extension>\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration name=\"Codeup1002\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\n      <option name=\"MAIN_CLASS_NAME\" value=\"com.example.javaproject2.codeup.Codeup1002\" />\n      <module name=\"java-project2.main\" />\n      <extension name=\"coverage\">\n        <pattern>\n          <option name=\"PATTERN\" value=\"com.example.javaproject2.codeup.*\" />\n          <option name=\"ENABLED\" value=\"true\" />\n        </pattern>\n      </extension>\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration name=\"Codeup1003\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\n      <option name=\"MAIN_CLASS_NAME\" value=\"com.example.javaproject2.codeup.Codeup1003\" />\n      <module name=\"java-project2.main\" />\n      <extension name=\"coverage\">\n        <pattern>\n          <option name=\"PATTERN\" value=\"com.example.javaproject2.codeup.*\" />\n          <option name=\"ENABLED\" value=\"true\" />\n        </pattern>\n      </extension>\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration name=\"Codeup1004\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\n      <option name=\"MAIN_CLASS_NAME\" value=\"com.example.javaproject2.codeup.Codeup1004\" />\n      <module name=\"java-project2.main\" />\n      <extension name=\"coverage\">\n        <pattern>\n          <option name=\"PATTERN\" value=\"com.example.javaproject2.codeup.*\" />\n          <option name=\"ENABLED\" value=\"true\" />\n        </pattern>\n      </extension>\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration name=\"ScannerExTest\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\n      <option name=\"MAIN_CLASS_NAME\" value=\"com.example.javaproject2.week1.day3.ScannerExTest\" />\n      <module name=\"java-project2.main\" />\n      <extension name=\"coverage\">\n        <pattern>\n          <option name=\"PATTERN\" value=\"com.example.javaproject2.week1.day3.*\" />\n          <option name=\"ENABLED\" value=\"true\" />\n        </pattern>\n      </extension>\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <recent_temporary>\n      <list>\n        <item itemvalue=\"Application.Codeup1004\" />\n        <item itemvalue=\"Application.Codeup1003\" />\n        <item itemvalue=\"Application.Codeup1002\" />\n        <item itemvalue=\"Application.Codeup1001\" />\n        <item itemvalue=\"Application.ScannerExTest\" />\n      </list>\n    </recent_temporary>\n  </component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"a4cc07c1-582b-4bef-8df3-9c6a1c1847cd\" name=\"Changes\" comment=\"\" />\n      <created>1681877963597</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1681877963597</updated>\n    </task>\n    <task id=\"LOCAL-00001\" summary=\"feat: Add class for string-to-integer conversion and addition\">\n      <created>1681953876978</created>\n      <option name=\"number\" value=\"00001\" />\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1681953876978</updated>\n    </task>\n    <task id=\"LOCAL-00002\" summary=\"feat: Add class for multiplication table\">\n      <created>1681965103837</created>\n      <option name=\"number\" value=\"00002\" />\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1681965103837</updated>\n    </task>\n    <task id=\"LOCAL-00003\" summary=\"feat: Add BufferedReader example\">\n      <created>1682868194893</created>\n      <option name=\"number\" value=\"00003\" />\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1682868194893</updated>\n    </task>\n    <option name=\"localTasksCounter\" value=\"4\" />\n    <servers />\n  </component>\n  <component name=\"Vcs.Log.Tabs.Properties\">\n    <option name=\"TAB_STATES\">\n      <map>\n        <entry key=\"MAIN\">\n          <value>\n            <State />\n          </value>\n        </entry>\n      </map>\n    </option>\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <MESSAGE value=\"feat: Add class for string-to-integer conversion and addition\" />\n    <MESSAGE value=\"feat: Add class for multiplication table\" />\n    <MESSAGE value=\"feat: Add BufferedReader example\" />\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"feat: Add BufferedReader example\" />\n  </component>\n</project>
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	
++++ b/.idea/workspace.xml	
+@@ -4,21 +4,21 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="a4cc07c1-582b-4bef-8df3-9c6a1c1847cd" name="Changes" comment="feat: Add BufferedReader example">
+-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/javaproject2/codeup/Codeup1001.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/javaproject2/codeup/Codeup1002.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/javaproject2/codeup/Codeup1003.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/javaproject2/codeup/Codeup1004.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/javaproject2/codeup/Codeup1005.java" afterDir="false" />
++    <list default="true" id="a4cc07c1-582b-4bef-8df3-9c6a1c1847cd" name="Changes" comment="feat: Add week1-day3 example">
++      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/javaproject2/codeup/Codeup1006.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/javaproject2/codeup/Codeup1007.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/javaproject2/codeup/Codeup1008.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/javaproject2/codeup/Codeup1010.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/javaproject2/codeup/Codeup1011.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/javaproject2/codeup/Codeup1012.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/javaproject2/codeup/Codeup1013.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/javaproject2/codeup/Codeup1014.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/javaproject2/codeup/Codeup1015.java" afterDir="false" />
+       <change afterPath="$PROJECT_DIR$/src/main/java/com/example/javaproject2/codeup/Codeup1103.java" afterDir="false" />
+       <change afterPath="$PROJECT_DIR$/src/main/java/com/example/javaproject2/codeup/Codeup1106.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/javaproject2/week1/day3/BufferedReaderEx.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/javaproject2/week1/day3/BufferedReaderExTest.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/javaproject2/week1/day3/NumberConverter.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/javaproject2/week1/day3/NumberConverterTest.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/javaproject2/week1/day3/ScannerEx.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/javaproject2/week1/day3/ScannerExTest.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/javaproject2/week1/day4/AverageCalculatorTest.java" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/javaproject2/week1/day4/AverageCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/javaproject2/week1/day4/AverageCalculator.java" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -29,6 +29,23 @@
+     <projectState path="$PROJECT_DIR$">
+       <ProjectState />
+     </projectState>
++  </component>
++  <component name="ExternalProjectsManager">
++    <system id="GRADLE">
++      <state>
++        <projects_view>
++          <tree_state>
++            <expand>
++              <path>
++                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
++                <item name="java-project2" type="f1a62948:ProjectNode" />
++              </path>
++            </expand>
++            <select />
++          </tree_state>
++        </projects_view>
++      </state>
++    </system>
+   </component>
+   <component name="FileTemplateManagerImpl">
+     <option name="RECENT_TEMPLATES">
+@@ -59,6 +76,19 @@
+       </map>
+     </option>
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
++  </component>
++  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
++  "lastFilter": {
++    "state": "OPEN"
++  }
++}]]></component>
++  <component name="GithubPullRequestsUISettings">
++    <option name="selectedUrlAndAccountId">
++      <UrlAndAccount>
++        <option name="accountId" value="79ebbf31-7c71-478f-b39d-949aae5f2d89" />
++        <option name="url" value="https://github.com/bear31eun/java-exercise.git" />
++      </UrlAndAccount>
++    </option>
+   </component>
+   <component name="ProjectId" id="2Od69kMkIYuiUH5RrKkIb7WW6mL" />
+   <component name="ProjectLevelVcsManager">
+@@ -75,9 +105,9 @@
+     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.gradle&quot;
+   }
+ }</component>
+-  <component name="RunManager" selected="Application.Codeup1004">
+-    <configuration name="Codeup1001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+-      <option name="MAIN_CLASS_NAME" value="com.example.javaproject2.codeup.Codeup1001" />
++  <component name="RunManager" selected="Application.Codeup1015">
++    <configuration name="Codeup1011" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="com.example.javaproject2.codeup.Codeup1011" />
+       <module name="java-project2.main" />
+       <extension name="coverage">
+         <pattern>
+@@ -89,8 +119,8 @@
+         <option name="Make" enabled="true" />
+       </method>
+     </configuration>
+-    <configuration name="Codeup1002" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+-      <option name="MAIN_CLASS_NAME" value="com.example.javaproject2.codeup.Codeup1002" />
++    <configuration name="Codeup1012" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="com.example.javaproject2.codeup.Codeup1012" />
+       <module name="java-project2.main" />
+       <extension name="coverage">
+         <pattern>
+@@ -102,8 +132,8 @@
+         <option name="Make" enabled="true" />
+       </method>
+     </configuration>
+-    <configuration name="Codeup1003" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+-      <option name="MAIN_CLASS_NAME" value="com.example.javaproject2.codeup.Codeup1003" />
++    <configuration name="Codeup1013" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="com.example.javaproject2.codeup.Codeup1013" />
+       <module name="java-project2.main" />
+       <extension name="coverage">
+         <pattern>
+@@ -115,8 +145,8 @@
+         <option name="Make" enabled="true" />
+       </method>
+     </configuration>
+-    <configuration name="Codeup1004" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+-      <option name="MAIN_CLASS_NAME" value="com.example.javaproject2.codeup.Codeup1004" />
++    <configuration name="Codeup1014" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="com.example.javaproject2.codeup.Codeup1014" />
+       <module name="java-project2.main" />
+       <extension name="coverage">
+         <pattern>
+@@ -128,12 +158,12 @@
+         <option name="Make" enabled="true" />
+       </method>
+     </configuration>
+-    <configuration name="ScannerExTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+-      <option name="MAIN_CLASS_NAME" value="com.example.javaproject2.week1.day3.ScannerExTest" />
++    <configuration name="Codeup1015" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="com.example.javaproject2.codeup.Codeup1015" />
+       <module name="java-project2.main" />
+       <extension name="coverage">
+         <pattern>
+-          <option name="PATTERN" value="com.example.javaproject2.week1.day3.*" />
++          <option name="PATTERN" value="com.example.javaproject2.codeup.*" />
+           <option name="ENABLED" value="true" />
+         </pattern>
+       </extension>
+@@ -143,11 +173,11 @@
+     </configuration>
+     <recent_temporary>
+       <list>
+-        <item itemvalue="Application.Codeup1004" />
+-        <item itemvalue="Application.Codeup1003" />
+-        <item itemvalue="Application.Codeup1002" />
+-        <item itemvalue="Application.Codeup1001" />
+-        <item itemvalue="Application.ScannerExTest" />
++        <item itemvalue="Application.Codeup1015" />
++        <item itemvalue="Application.Codeup1014" />
++        <item itemvalue="Application.Codeup1013" />
++        <item itemvalue="Application.Codeup1012" />
++        <item itemvalue="Application.Codeup1011" />
+       </list>
+     </recent_temporary>
+   </component>
+@@ -181,7 +211,14 @@
+       <option name="project" value="LOCAL" />
+       <updated>1682868194893</updated>
+     </task>
+-    <option name="localTasksCounter" value="4" />
++    <task id="LOCAL-00004" summary="feat: Add week1-day3 example">
++      <created>1682909011421</created>
++      <option name="number" value="00004" />
++      <option name="presentableId" value="LOCAL-00004" />
++      <option name="project" value="LOCAL" />
++      <updated>1682909011422</updated>
++    </task>
++    <option name="localTasksCounter" value="5" />
+     <servers />
+   </component>
+   <component name="Vcs.Log.Tabs.Properties">
+@@ -199,6 +236,7 @@
+     <MESSAGE value="feat: Add class for string-to-integer conversion and addition" />
+     <MESSAGE value="feat: Add class for multiplication table" />
+     <MESSAGE value="feat: Add BufferedReader example" />
+-    <option name="LAST_COMMIT_MESSAGE" value="feat: Add BufferedReader example" />
++    <MESSAGE value="feat: Add week1-day3 example" />
++    <option name="LAST_COMMIT_MESSAGE" value="feat: Add week1-day3 example" />
+   </component>
+ </project>
+\ No newline at end of file

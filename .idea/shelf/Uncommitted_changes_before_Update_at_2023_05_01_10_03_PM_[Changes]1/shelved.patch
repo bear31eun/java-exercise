@@ -1,0 +1,37 @@
+Index: src/main/java/com/example/javaproject2/codeup/Codeup1103.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/java/com/example/javaproject2/codeup/Codeup1103.java b/src/main/java/com/example/javaproject2/codeup/Codeup1103.java
+new file mode 100644
+--- /dev/null	
++++ b/src/main/java/com/example/javaproject2/codeup/Codeup1103.java	
+@@ -0,0 +1,8 @@
++package com.example.javaproject2.codeup;
++
++public class Codeup1103 {
++    public static void main(String[] args) {
++        String filePath = "c:\\test";
++        System.out.printf("\"%s\"", filePath);
++    }
++}
+Index: src/main/java/com/example/javaproject2/codeup/Codeup1106.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/java/com/example/javaproject2/codeup/Codeup1106.java b/src/main/java/com/example/javaproject2/codeup/Codeup1106.java
+new file mode 100644
+--- /dev/null	
++++ b/src/main/java/com/example/javaproject2/codeup/Codeup1106.java	
+@@ -0,0 +1,9 @@
++package com.example.javaproject2.codeup;
++
++public class Codeup1106 {
++    public static void main(String[] args) {
++        int min = 0b10000000000000000000000000000000;
++        int max = 0b01111111111111111111111111111111;
++        System.out.printf("%d %d", min, max);
++    }
++}
