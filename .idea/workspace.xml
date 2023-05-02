@@ -4,17 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a4cc07c1-582b-4bef-8df3-9c6a1c1847cd" name="Changes" comment="feat: Add BufferedReader example">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/javaproject2/codeup/Codeup1071.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/javaproject2/week1/day5/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/javaproject2/week3/day1/NewSwitchCaseDaysOfMonth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/javaproject2/week3/day1/NewSwitchCaseSeason.java" afterDir="false" />
+    <list default="true" id="a4cc07c1-582b-4bef-8df3-9c6a1c1847cd" name="Changes" comment="feat: Add week1-day5 example">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/javaproject2/codeup/Codeup1021.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/javaproject2/codeup/Codeup1022.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/javaproject2/codeup/Codeup1023.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/javaproject2/codeup/Codeup1028.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/javaproject2/codeup/Codeup1029.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/javaproject2/codeup/Codeup1030.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/javaproject2/codeup/Codeup1017.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/javaproject2/codeup/Codeup1017.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/javaproject2/codeup/Codeup1018.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/javaproject2/codeup/Codeup1018.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/javaproject2/week1/day5/UserobjectExTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/javaproject2/week1/day5/UserobjectExTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,13 +94,13 @@
     "settings.editor.selected.configurable": "project.propVCSSupport.CommitDialog"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.PointTest (4)">
-    <configuration name="PointTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.javaproject2.week1.day5.PointTest" />
+  <component name="RunManager" selected="Application.Codeup1029">
+    <configuration name="Codeup1021" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.javaproject2.codeup.Codeup1021" />
       <module name="java-project2.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.javaproject2.week1.day5.*" />
+          <option name="PATTERN" value="com.example.javaproject2.codeup.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PointTest (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.javaproject2.week1.day5.PointTest" />
+    <configuration name="Codeup1022" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.javaproject2.codeup.Codeup1022" />
       <module name="java-project2.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.javaproject2.week1.day5.*" />
+          <option name="PATTERN" value="com.example.javaproject2.codeup.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,12 +121,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PointTest (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.javaproject2.week1.day5.PointTest" />
+    <configuration name="Codeup1023" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.javaproject2.codeup.Codeup1023" />
       <module name="java-project2.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.javaproject2.week1.day5.*" />
+          <option name="PATTERN" value="com.example.javaproject2.codeup.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,12 +134,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PointTest (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.javaproject2.week1.day5.PointTest" />
+    <configuration name="Codeup1028" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.javaproject2.codeup.Codeup1028" />
       <module name="java-project2.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.javaproject2.week1.day5.*" />
+          <option name="PATTERN" value="com.example.javaproject2.codeup.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,12 +147,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PointTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.javaproject2.week1.day5.PointTest" />
+    <configuration name="Codeup1029" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.javaproject2.codeup.Codeup1029" />
       <module name="java-project2.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.javaproject2.week1.day5.*" />
+          <option name="PATTERN" value="com.example.javaproject2.codeup.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -165,11 +162,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PointTest (4)" />
-        <item itemvalue="Application.PointTest (3)" />
-        <item itemvalue="Application.PointTest (2)" />
-        <item itemvalue="Application.PointTest (1)" />
-        <item itemvalue="Application.PointTest" />
+        <item itemvalue="Application.Codeup1029" />
+        <item itemvalue="Application.Codeup1028" />
+        <item itemvalue="Application.Codeup1023" />
+        <item itemvalue="Application.Codeup1022" />
+        <item itemvalue="Application.Codeup1021" />
       </list>
     </recent_temporary>
   </component>
@@ -203,7 +200,21 @@
       <option name="project" value="LOCAL" />
       <updated>1682868194893</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="feat: Add week1-day5 example">
+      <created>1682996744189</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1682996744189</updated>
+    </task>
+    <task id="LOCAL-00005" summary="feat: Add week1-day5 example">
+      <created>1682996754659</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1682996754660</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -221,6 +232,7 @@
     <MESSAGE value="feat: Add class for string-to-integer conversion and addition" />
     <MESSAGE value="feat: Add class for multiplication table" />
     <MESSAGE value="feat: Add BufferedReader example" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: Add BufferedReader example" />
+    <MESSAGE value="feat: Add week1-day5 example" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: Add week1-day5 example" />
   </component>
 </project>
