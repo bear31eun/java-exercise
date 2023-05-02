@@ -11,6 +11,13 @@ public class UserobjectExTest {
 
 
         UserObjectEx jaesung = new UserObjectEx();
+        jaesung.name = "재성 매니저님";
+        jaesung.phoneNumber = "010-4321-8765";
+        jaesung.age = 17;
+
+        System.out.printf("%s님은 성인입니까? %s\n", kyeongrok.name, kyeongrok.isAdult());
+        System.out.printf("%s님은 성인입니까? %s\n", jaesung.name, jaesung.isAdult());
+
 
     }
 }
